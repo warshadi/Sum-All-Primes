@@ -1,0 +1,1 @@
+This APP for Sum all prime numbers is rang.
